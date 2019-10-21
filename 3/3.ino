@@ -35,7 +35,7 @@
 
 
 /*Configuración de LEDs*/
-
+//TODO AGREGAR MODO DEBUG 
 // PIN de salida a NeoPixels
 #define PIN        6 // On Trinket or Gemma, suggest changing this to 1
 
